@@ -1,0 +1,1 @@
+ Familiarizzare con la gestione dei gruppi di utenti in Windows Server 2022. Creare gruppi, assegnare loro permessi specifici e comprendere l'importanza della gestione dei gruppi per la sicurezza e l'amministrazione del sistema.
